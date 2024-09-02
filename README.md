@@ -48,6 +48,34 @@ Welcome to my page; on my Github, you can find:
 - ⭐ Contribute to open source and private source
 - ⭐ Master new technologies, master computer science and mathematics
 
+Proficiencies:
+- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
+- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
+- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
+- 📚 Angular, RxJS, NgRx
+- 📚 Svelte and Stencil + Storybook + Web Components
+- 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
+- 📚 AWS, Azure and GCP
+- 📚 Go lang, Move lang, Rust
+- 📚 HTML5/CSS3 + Canvas + WebGL + Animation
+- 📚 Agile, Scrum, Kanban
+- 📚 Web2/Web3 startups
+- 📚 Cryptography (cryptocurrency and blockchain)
+- 📚 Team Leadership
+- 📚 Project Leadership
+
+Interests:
+- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
+- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
+- ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
+
+Big believer in:
+- 💡 Power of continuous learning and personal growth
+- 💡 Importance of cultivating a positive mindset and embracing optimism
+- 💡 Value of hard work and perseverance in achieving success
+- 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
+- 💡 Importance of ethical behavior and integrity in all aspects of life
+
 ## 🥇 Primary technology stack
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
