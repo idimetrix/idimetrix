@@ -26,27 +26,27 @@ Welcome to my page; on my Github, you can find:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idimetrix)
 
 
-## 📜 Github stats:
+## Github stats:
 
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 --- 
 
-## 👨 Personal stats:
+## Personal stats:
 
-⭐ 15+ years of professional experience in full lifecycle development (web2/web3) 
-⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
-⭐ Delivered over 50+ projects 
-⭐ Worked with over 25+ companies from startup to enterprise level 
-⭐ Delivered over 50+ projects 
-⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills 
-⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects 
-⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies. 
-⭐ Worked on innovative and cutting-edge projects 
-⭐ Contribute to industry thought leadership 
-⭐ Contribute to open source and private source
-⭐ Master new technologies, master computer science and mathematics
+- ⭐ 15+ years of professional experience in full lifecycle development (web2/web3) 
+- ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
+- ⭐ Delivered over 50+ projects 
+- ⭐ Worked with over 25+ companies from startup to enterprise level 
+- ⭐ Delivered over 50+ projects 
+- ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills 
+- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects 
+- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies. 
+- ⭐ Worked on innovative and cutting-edge projects 
+- ⭐ Contribute to industry thought leadership 
+- ⭐ Contribute to open source and private source
+- ⭐ Master new technologies, master computer science and mathematics
 
 ## 🥇 Primary technology stack
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
