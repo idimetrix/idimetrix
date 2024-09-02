@@ -39,7 +39,7 @@ In my view, the best approach is to pick the tech that's just right for the prob
 
 Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages
 
-#### My current technology stack:
+#### Primary technology stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -59,7 +59,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-#### Technology that I am using but just less
+#### Secondary technology stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
@@ -74,14 +74,12 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 
 ---
 
-### If you like my work, 🎉 [become a sponsor](https://github.com/sponsors/idimetrix/) or ☕ [buy me a coffee](https://buymeacoffee.com/idimetrix/)
-
-
-
 ## 🎮 Try pressing the buttons and come back down
 
 <div>
+  <a href="https://www.linkedin.com/in/dimetrix" target="_blank">
   <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" />
+ </a>
   <br />
   <br />
   <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix" target="_blank">
@@ -103,3 +101,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
   <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35" /></a>
   <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" /></a>
 </div>
+
+---
+
+### If you like my work, 🎉 [become a sponsor](https://github.com/sponsors/idimetrix/) or ☕ [buy me a coffee](https://buymeacoffee.com/idimetrix/)
