@@ -103,7 +103,3 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
   <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35" /></a>
   <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" /></a>
 </div>
-
----
-
-### If you like my work, 🎉 [become a sponsor](https://github.com/sponsors/idimetrix/) or ☕ [buy me a coffee](https://buymeacoffee.com/idimetrix/)
