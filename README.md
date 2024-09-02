@@ -35,11 +35,12 @@ Welcome to my page; on my Github, you can find:
 
 ## Personal stats:
 
-With over 15 years of experience and 7+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
+#### With over 15 years of experience and 7+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
 
 <details>
-  <summary>show more</summary>
+  <summary>Highlights / Proficiencies / Interests / Believes</summary>
 
+Highlights:
 - ⭐ 15+ years of professional experience in full lifecycle development (web2/web3) 
 - ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
 - ⭐ Delivered over 50+ projects 
