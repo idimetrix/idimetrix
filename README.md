@@ -82,7 +82,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 
 <div>
   <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" />
-
+  <br />
   <br />
   <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix" target="_blank">
     <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35" />
