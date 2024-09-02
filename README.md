@@ -81,11 +81,25 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ## 🎮 Try pressing the buttons and come back down
 
 <div>
-<img src="" width="300"/> 
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" />
 
-
-<br><a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35"/></a>
-<br><a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/idimetrix"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35"/><a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/idimetrix"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35"/><a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/idimetrix"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35"/></a> <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/idimetrix"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35"/></a>
-<br><a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/idimetrix"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35"/><a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35"/></a> <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" /></a>
+  <br />
+  <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix" target="_blank">
+    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35" />
+  </a>
+  <br />
+  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/left.png" width="35" /></a>
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/right.png" width="35" /></a>
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" /></a>
+  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" /></a> <br />
+  <a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/idimetrix" target="_blank">
+    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/down.png" width="35" />
+  </a>
+  <br />
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35" /></a>
+  <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" /></a>
 </div>
