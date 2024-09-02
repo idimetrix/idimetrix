@@ -35,6 +35,11 @@ Welcome to my page; on my Github, you can find:
 
 ## Personal stats:
 
+With over 15 years of experience and 7+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
+
+<details>
+  <summary>show more</summary>
+
 - ⭐ 15+ years of professional experience in full lifecycle development (web2/web3) 
 - ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
 - ⭐ Delivered over 50+ projects 
@@ -75,6 +80,8 @@ Big believer in:
 - 💡 Value of hard work and perseverance in achieving success
 - 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
 - 💡 Importance of ethical behavior and integrity in all aspects of life
+
+</details>
 
 ## 🥇 Primary technology stack
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
