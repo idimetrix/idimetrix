@@ -70,6 +70,8 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
+
+#### Tertiary technology stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
@@ -104,4 +106,4 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 
 ---
 
-#### If you like my work, 🎉 [become a sponsor](https://github.com/sponsors/idimetrix/) or ☕ [buy me a coffee](https://buymeacoffee.com/idimetrix/)
+### If you like my work, 🎉 [become a sponsor](https://github.com/sponsors/idimetrix/) or ☕ [buy me a coffee](https://buymeacoffee.com/idimetrix/)
