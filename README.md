@@ -176,12 +176,6 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 [![Star History Chart](https://api.star-history.com/svg?repos=idimetrix/idimetrix&type=Date)](https://star-history.com/#idimetrix/idimetrix&Date)
 
-## Profile Views
-
-Counting of visitors to this page in this section started from May 1, 2022
-
-![](https://count.getloli.com/get/@idimetrix.github.readme)
-
 ---
 
 ## 🎮 Try pressing the buttons and come back down
