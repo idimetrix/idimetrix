@@ -1,6 +1,8 @@
 📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source. 
+
 [**[Jobs Boards](https://github.com/idimetrix/awesome-job-boards)**]
 [**[Talents Boards](https://github.com/idimetrix/awesome-talents)**]
+
 ---
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Dmitry (Di).
