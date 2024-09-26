@@ -1,6 +1,6 @@
 📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero2.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero3.png"></a>
 [**[Jobs Boards](https://github.com/idimetrix/awesome-job-boards)**]
 [**[Talents Boards](https://github.com/idimetrix/awesome-talents)**] ___
 [**[Hire Talents](https://www.linkedin.com/in/dimetrix)**]
