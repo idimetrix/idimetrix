@@ -2,7 +2,9 @@
 
 <a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero2.png"></a>
 [**[Jobs Boards](https://github.com/idimetrix/awesome-job-boards)**]
-[**[Talents Boards](https://github.com/idimetrix/awesome-talents)**]
+[**[Talents Boards](https://github.com/idimetrix/awesome-talents)**] ___
+[**[Hire Talents](https://www.linkedin.com/in/dimetrix)**]
+[**[Find Jobs](https://www.linkedin.com/in/dimetrix)**]
 <p align="center">
 <a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="33%" src="./images/banner1.png"></a>
 <a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="33%" src="./images/banner2.png"></a>
