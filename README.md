@@ -6,14 +6,14 @@
 [**[Hire Talents](https://www.linkedin.com/in/dimetrix)**]
 [**[Find Jobs](https://www.linkedin.com/in/dimetrix)**]
 <p align="center">
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="33%" src="./images/banner1.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="33%" src="./images/banner2.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="33%" src="./images/banner3.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner1.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner2.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner3.png"></a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="33%" src="./images/banner4.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="33%" src="./images/banner6.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="33%" src="./images/banner5.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner4.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner6.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner5.png"></a>
 </p>
 
 ---
