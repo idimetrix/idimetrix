@@ -1,26 +1,26 @@
 📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 <a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
-[**[Hire A Talent](https://github.com/idimetrix/awesome-job-boards)**]
-[**[Request A Quote](https://github.com/idimetrix/awesome-talents)**]
-[**[Find A Jobs](https://github.com/idimetrix/awesome-talents)**] ___
-[**[For Companies](https://github.com/idimetrix/awesome-talents)**]
-[**[For Developers](https://github.com/idimetrix/awesome-talents)**]
+[**[Hire A Talent](https://tally.so/r/3lldZB)**]
+[**[Request A Quote](https://tally.so/r/3lldZB)**]
+[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
+[**[For Companies](https://tally.so/r/3lldZB)**]
+[**[For Developers](https://tally.so/r/3j9Qza)**]
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/3.png"></a>
+<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
+<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/3.png"></a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/4.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/5.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/6.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/4.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/5.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/6.png"></a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
 </p>
 
 ---
