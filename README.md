@@ -7,6 +7,9 @@
 [**[For Companies](https://tally.so/r/3lldZB)**]
 [**[For Developers](https://tally.so/r/3j9Qza)**]
 
+[**[Chat With Me](https://www.linkedin.com/in/dimetrix)**]
+[**[Work With Me](https://www.linkedin.com/in/dimetrix)**]
+
 <p align="center">
 <a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
 <a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
