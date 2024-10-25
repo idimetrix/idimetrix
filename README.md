@@ -1,19 +1,26 @@
 📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 <a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero3.png"></a>
-[**[Jobs Boards](https://github.com/idimetrix/awesome-job-boards)**]
-[**[Talents Boards](https://github.com/idimetrix/awesome-talents)**] ___
-[**[Hire Talents](https://www.linkedin.com/in/dimetrix)**]
-[**[Find Jobs](https://www.linkedin.com/in/dimetrix)**]
+[**[Hire A Talent](https://github.com/idimetrix/awesome-job-boards)**]
+[**[Request A Quote](https://github.com/idimetrix/awesome-talents)**]
+[**[Find A Jobs](https://github.com/idimetrix/awesome-talents)**] ___
+[**[For Companies](https://github.com/idimetrix/awesome-talents)**]
+[**[For Developers](https://github.com/idimetrix/awesome-talents)**]
+
 <p align="center">
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner1.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner2.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner3.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/3.png"></a>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner4.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner6.png"></a>
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banner5.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/4.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/5.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/6.png"></a>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
 </p>
 
 ---
@@ -31,31 +38,30 @@
 I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
 
 Welcome to my page; on my Github, you can find:
+
 - Projects created by me
 - Projects contributed by me
 
-
-
 ## 📧 You can contact me on:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
 
-*I am open to new opportunities/contributions.*
-
+_I am open to new opportunities/contributions._
 
 ## 🔎 You can find me on:
+
 <a href="mailto:mailto:selikhov.dmitrey@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/idimetrix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idimetrix)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
 
-
 ## Github stats:
 
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
---- 
+---
 
 ## Personal stats:
 
@@ -65,20 +71,22 @@ Welcome to my page; on my Github, you can find:
   <summary>Highlights / Proficiencies / Interests / Believes</summary>
 
 Highlights:
-- ⭐ 15+ years of professional experience in full lifecycle development (web2/web3) 
+
+- ⭐ 15+ years of professional experience in full lifecycle development (web2/web3)
 - ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
-- ⭐ Delivered over 50+ projects 
-- ⭐ Worked with over 25+ companies from startup to enterprise level 
-- ⭐ Delivered over 50+ projects 
-- ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills 
-- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects 
-- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies. 
-- ⭐ Worked on innovative and cutting-edge projects 
-- ⭐ Contribute to industry thought leadership 
+- ⭐ Delivered over 50+ projects
+- ⭐ Worked with over 25+ companies from startup to enterprise level
+- ⭐ Delivered over 50+ projects
+- ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills
+- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects
+- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
+- ⭐ Worked on innovative and cutting-edge projects
+- ⭐ Contribute to industry thought leadership
 - ⭐ Contribute to open source and private source
 - ⭐ Master new technologies, master computer science and mathematics
 
 Proficiencies:
+
 - 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
 - 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
 - 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
@@ -95,11 +103,13 @@ Proficiencies:
 - 📚 Project Leadership
 
 Interests:
+
 - ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
 - ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
 - ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
 
 Big believer in:
+
 - 💡 Power of continuous learning and personal growth
 - 💡 Importance of cultivating a positive mindset and embracing optimism
 - 💡 Value of hard work and perseverance in achieving success
@@ -109,6 +119,7 @@ Big believer in:
 </details>
 
 ## 🥇 Primary technology stack
+
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -153,6 +164,7 @@ Big believer in:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 🥈 Secondary technology stack
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -171,6 +183,7 @@ Big believer in:
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 ## 🥉 Tertiary technology stack
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
@@ -179,12 +192,11 @@ Big believer in:
 ## Thanks for visiting
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/idimetrix/count.svg">  
+<img src="https://profile-counter.glitch.me/idimetrix/count.svg">
 
 Counting of visitors to this page in this section started from May 1, 2022
 
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 
 ## Star History
 
