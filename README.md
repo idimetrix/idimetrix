@@ -6,6 +6,7 @@
 [**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
 [**[For Companies](https://tally.so/r/3lldZB)**]
 [**[For Developers](https://tally.so/r/3j9Qza)**]
+
 [**[Chat With Me](https://www.linkedin.com/in/dimetrix)**]
 [**[Work With Me](https://www.linkedin.com/in/dimetrix)**]
 
