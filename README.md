@@ -261,15 +261,11 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--   skyline
-<a href="https://skyline.github.com/idimetrix/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix" width="auto"></img>
 
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
 
