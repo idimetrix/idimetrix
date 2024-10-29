@@ -263,7 +263,7 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
 
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
 
