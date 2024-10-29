@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: idimetrix
-          config_timezone: Europe/Minsk
+          config_timezone: America/New_York
           #          config_display: columns  # display information in columns
           committer_message: "chore: update metrics"
           template: classic
