@@ -1,5 +1,4 @@
 ## GitHub Action for generating a contribution graph with a snake eating your contributions.
-## GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
 
 name: generate animation
 
