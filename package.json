@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "format": "prettier --write .",
+    "bootstrap": "npm i && npm run format",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

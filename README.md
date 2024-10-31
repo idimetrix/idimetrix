@@ -26,6 +26,9 @@
 <a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
 </p>
 
+[**[My CV - Build CV](https://github.com/idimetrix/cv)**]
+[**[My README - Build README](https://github.com/idimetrix/idimetrix)**]
+
 ---
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Dmitry (Di).
