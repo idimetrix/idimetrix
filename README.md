@@ -32,6 +32,10 @@
 
 ---
 
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@idimetrix-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+
+---
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Dmitry (Di).
 
 <p>
@@ -200,6 +204,12 @@ Big believer in:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 🎧 Spotify Playing
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31buiwbmk23jwn2tftmreb252ck4)](https://open.spotify.com/user/31buiwbmk23jwn2tftmreb252ck4)
 
 ---
 
