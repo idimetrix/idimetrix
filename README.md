@@ -386,6 +386,8 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 </a>
 </p>
 
+[//]: # "https://www.asciiart.eu/image-to-ascii"
+
 ```
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
