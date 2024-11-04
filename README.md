@@ -456,6 +456,6 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=851265087&image_size=auto" /> |
 
-| Repository Annual Ranking                                                                                                                          | Find More                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /> | <a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a > |
+| Repository Annual Ranking                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /> |
