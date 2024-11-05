@@ -351,8 +351,6 @@ counting of visitors to this page in this section started from June 12, 2022
 ![](https://count.getloli.com/get/@idimetrix.github.readme)
 </br>
 
-[MIT](LICENSE)
-
 ---
 
 ## _If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use._
