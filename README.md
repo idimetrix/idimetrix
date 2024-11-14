@@ -9,6 +9,7 @@
 
 [**[Chat With Me](https://www.linkedin.com/in/dimetrix)**]
 [**[Work With Me](https://www.linkedin.com/in/dimetrix)**]
+[**[Newsletters](https://idimetrix.substack.com)**]
 
 <p align="center">
 <a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
