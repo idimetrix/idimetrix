@@ -95,7 +95,6 @@ Highlights:
 - ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
 - ⭐ Delivered over 50+ projects
 - ⭐ Worked with over 25+ companies from startup to enterprise level
-- ⭐ Delivered over 50+ projects
 - ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills
 - ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects
 - ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
