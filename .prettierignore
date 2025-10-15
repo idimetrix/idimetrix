@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Generated files
+profile-3d-contrib/
+github-metrics.svg
+

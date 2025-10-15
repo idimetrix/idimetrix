@@ -44,6 +44,8 @@
     <a href="https://github.com/idimetrix/idimetrix/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
     <a href="https://github.com/idimetrix/idimetrix/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github"></a>
     <a href="https://github.com/idimetrix/idimetrix/network/members"><img src="https://img.shields.io/github/forks/idimetrix/idimetrix.svg?color=blue&logo=github"></a>
+    <img src="https://img.shields.io/badge/pnpm-v10+-yellow.svg?logo=pnpm" alt="pnpm">
+    <img src="https://img.shields.io/badge/node-v22+-green.svg?logo=node.js" alt="node">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
 </p>
 
@@ -53,6 +55,27 @@ Welcome to my page; on my Github, you can find:
 
 - Projects created by me
 - Projects contributed by me
+
+## 🚀 Quick Setup
+
+This project uses **pnpm** for package management. Make sure you have it installed:
+
+```bash
+# Install pnpm globally
+npm install -g pnpm
+
+# Clone the repository
+git clone https://github.com/idimetrix/idimetrix.git
+cd idimetrix
+
+# Install dependencies
+pnpm install
+
+# Format code
+pnpm run format
+```
+
+For more details, see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📧 You can contact me on:
 
@@ -204,7 +227,7 @@ Big believer in:
 ## 🥉 Tertiary technology stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
 
 ---
 
