@@ -1,16 +1,85 @@
 {
   "name": "idimetrix",
   "version": "1.0.0",
-  "description": "📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.",
+  "description": "📢 Nominate (@idimetrix) as GitHub Star. If you appreciate his hard work and dedication to open source. Big believer in quality over quantity. Maximization through minimization.",
   "main": "index.js",
+  "keywords": [
+    "idimetrix",
+    "dmitry-selikhov",
+    "portfolio",
+    "cto",
+    "software-architect",
+    "technical-lead",
+    "full-stack",
+    "react",
+    "vue",
+    "angular",
+    "nodejs",
+    "typescript",
+    "javascript",
+    "web3",
+    "blockchain",
+    "open-source",
+    "remote-jobs",
+    "hiring",
+    "talents"
+  ],
+  "homepage": "https://idimetrix.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idimetrix/idimetrix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/idimetrix/idimetrix/issues"
+  },
+  "author": {
+    "name": "Dmitry Selikhov",
+    "email": "selikhov.dmitrey@gmail.com",
+    "url": "https://dmitrii-selikhov.vercel.app"
+  },
+  "contributors": [
+    {
+      "name": "Dmitry Selikhov",
+      "email": "selikhov.dmitrey@gmail.com",
+      "url": "https://github.com/idimetrix"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Dmitry Selikhov",
+      "email": "selikhov.dmitrey@gmail.com",
+      "url": "https://github.com/idimetrix"
+    }
+  ],
+  "license": "MIT",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/dimetrix/",
+    "twitter": "https://twitter.com/idimetrix",
+    "github": "https://github.com/idimetrix",
+    "website": "https://dmitrii-selikhov.vercel.app",
+    "orcid": "https://orcid.org/0009-0007-2206-2711"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/idimetrix"
+    },
+    {
+      "type": "website",
+      "url": "https://dmitrii-selikhov.vercel.app"
+    }
+  ],
   "scripts": {
     "format": "prettier --write .",
-    "bootstrap": "npm i && npm run format",
+    "bootstrap": "pnpm install && pnpm run format",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT",
   "devDependencies": {
-    "prettier": "3.3.3"
-  }
+    "prettier": "3.6.2"
+  },
+  "engines": {
+    "node": ">=22",
+    "pnpm": ">=10"
+  },
+  "packageManager": "pnpm@10.18.3"
 }
