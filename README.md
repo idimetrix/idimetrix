@@ -1,9 +1,9 @@
 📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
-<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png"></a>
+<a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png" alt="Dmitry Selikhov - CTO, Software Architect, Technical Lead - Professional Profile Banner"></a>
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
 [**[Request A Quote](https://tally.so/r/3lldZB)**]
-[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
+[**[Find Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
 [**[For Companies](https://tally.so/r/3lldZB)**]
 [**[For Developers](https://tally.so/r/3j9Qza)**]
 
@@ -12,19 +12,19 @@
 [**[Newsletters](https://idimetrix.substack.com)**]
 
 <p align="center">
-<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png"></a>
-<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/3.png"></a>
+<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/1.png" alt="Hire Top Tech Talent - Connect with skilled developers"></a>
+<a href="https://tally.so/r/3lldZB" target="_blank"><img width="32%" src="./images/banners/2.png" alt="Request a Quote - Get your project estimated"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/3.png" alt="Find Remote Jobs - Explore opportunities"></a>
 </p>
 <p align="center">
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/4.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/5.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/6.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/4.png" alt="For Job Seekers - Browse tech positions"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/5.png" alt="Remote Work Opportunities - Work from anywhere"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/6.png" alt="Tech Career Opportunities - Join innovative teams"></a>
 </p>
 <p align="center">
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/7.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/8.png"></a>
-<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/7.png" alt="Developer Positions - Find your next role"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/8.png" alt="Software Engineering Jobs - Build amazing products"></a>
+<a href="https://tally.so/r/3j9Qza" target="_blank"><img width="32%" src="./images/banners/9.png" alt="Join Our Network - Connect with top companies"></a>
 </p>
 
 [**[My CV - Build CV](https://github.com/idimetrix/cv)**]
@@ -37,18 +37,18 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Dmitry (Di).
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand"> Hello, my name is Dmitry (Di).
 
 <p>
-    <a href="https://github.com/idimetrix/idimetrix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/idimetrix/idimetrix/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
-    <a href="https://github.com/idimetrix/idimetrix/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github"></a>
-    <a href="https://github.com/idimetrix/idimetrix/network/members"><img src="https://img.shields.io/github/forks/idimetrix/idimetrix.svg?color=blue&logo=github"></a>
-    <img src="https://img.shields.io/github/license/idimetrix/idimetrix" alt="license">
-    <img src="https://img.shields.io/github/last-commit/idimetrix/idimetrix" alt="last commit">
-    <img src="https://img.shields.io/badge/pnpm-v10+-yellow.svg?logo=pnpm" alt="pnpm">
-    <img src="https://img.shields.io/badge/node-v22+-green.svg?logo=node.js" alt="node">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
+    <a href="https://github.com/idimetrix/idimetrix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="Status: Updating"></a>
+    <a href="https://github.com/idimetrix/idimetrix/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue" alt="Contributors"></a>
+    <a href="https://github.com/idimetrix/idimetrix/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github" alt="GitHub Stars"></a>
+    <a href="https://github.com/idimetrix/idimetrix/network/members"><img src="https://img.shields.io/github/forks/idimetrix/idimetrix.svg?color=blue&logo=github" alt="GitHub Forks"></a>
+    <img src="https://img.shields.io/github/license/idimetrix/idimetrix" alt="License: MIT">
+    <img src="https://img.shields.io/github/last-commit/idimetrix/idimetrix" alt="Last Commit">
+    <img src="https://img.shields.io/badge/pnpm-v10+-yellow.svg?logo=pnpm" alt="Package Manager: pnpm v10+">
+    <img src="https://img.shields.io/badge/node-v22+-green.svg?logo=node.js" alt="Node.js: v22+">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="Profile Visitors"/>   
 </p>
 
 I am 🧙 Lead Full-Stack Software Engineer and 🏆 Open Source lover
@@ -58,19 +58,31 @@ Welcome to my page; on my Github, you can find:
 - Projects created by me
 - Projects contributed by me
 
-## 📧 You can contact me on:
+## 📑 Table of Contents
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
+- [📬 Contact & Social](#-contact--social)
+- [📊 Github Stats](#github-stats)
+- [🔖 Featured Repositories](#-featured-repositories)
+- [💼 Personal Stats](#personal-stats)
+- [💻 Technology Stack](#-primary-technology-stack)
+- [🎧 Spotify Playing](#-spotify-playing)
+- [📊 GitHub Activity Graph](#-github-activity-graph)
+- [🚀 Quick Setup](#-quick-setup)
+- [📄 License](#mit)
 
-_I am open to new opportunities/contributions._
+---
 
-## 🔎 You can find me on:
+## 📬 Contact & Social
 
-<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![X](https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/idimetrix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idimetrix)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
+<p align="center">
+<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: selikhov.dmitrey@gmail.com"/></a>
+<a href="https://x.com/idimetrix"><img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter): @idimetrix"></a>
+<a href="https://www.linkedin.com/in/dimetrix/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Dmitry Selikhov"></a>
+<a href="https://t.me/idimetrix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @idimetrix"></a>
+<a href="https://dmitrii-selikhov.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website: dmitrii-selikhov.vercel.app"></a>
+</p>
+
+<p align="center"><em>I am open to new opportunities and collaborations.</em></p>
 
 ## Github stats:
 
@@ -105,7 +117,7 @@ Highlights:
 - ⭐ Worked on innovative and cutting-edge projects
 - ⭐ Contribute to industry thought leadership
 - ⭐ Contribute to open source and private source
-- ⭐ Master new technologies, master computer science and mathematics
+- ⭐ Master new technologies, computer science, and mathematics
 
 Proficiencies:
 
@@ -220,11 +232,16 @@ Big believer in:
 ## Thanks for visiting
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/idimetrix/count.svg">
+<img src="https://profile-counter.glitch.me/idimetrix/count.svg" alt="Profile Visit Counter">
+</p>
 
+<p align="center">
 Counting of visitors to this page in this section started from May 1, 2022
+</p>
 
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<p align="center">
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter - Visitor Countries" style="border: none;"></a>
+</p>
 
 ## Star History
 
@@ -232,33 +249,38 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 ---
 
-## 🎮 Try pressing the buttons and come back down
+<details>
+<summary>🎮 Interactive Game - Try pressing the buttons!</summary>
+
+<p>Use the arrow keys and A/B buttons below (they connect to my LinkedIn profile)</p>
 
 <div>
   <a href="https://www.linkedin.com/in/dimetrix" target="_blank">
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" />
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/me64.png" width="300" alt="Profile Avatar" />
  </a>
   <br />
   <br />
   <a href="https://www.linkedin.com/in/dimetrix?button=2&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35" />
+    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/up.png" width="35" alt="Up Arrow Button" />
   </a>
   <br />
-  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/left.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/right.png" width="35" /></a>
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" /></a> <br />
+  <a href="https://www.linkedin.com/in/dimetrix?button=1&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/left.png" width="35" alt="Left Arrow Button" /></a>
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=0&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/right.png" width="35" alt="Right Arrow Button" /></a>
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" />
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=5&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/B.png" width="35" alt="B Button" /></a>
+  <a href="https://www.linkedin.com/in/dimetrix?button=4&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/A.png" width="35" alt="A Button" /></a> <br />
   <a href="https://www.linkedin.com/in/dimetrix?button=3&callback=https://github.com/idimetrix" target="_blank">
-    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/down.png" width="35" />
+    <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/down.png" width="35" alt="Down Arrow Button" />
   </a>
   <br />
-  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" />
-  <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35" /></a>
-  <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" /></a>
+  <img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" /><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/blank.png" width="35" alt="Spacer" />
+  <a href="https://www.linkedin.com/in/dimetrix?button=6&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/select.png" height="35" alt="Select Button" /></a>
+  <a href="https://www.linkedin.com/in/dimetrix?button=7&callback=https://github.com/idimetrix" target="_blank"><img src="https://raw.githubusercontent.com/idimetrix/idimetrix/main/images/start.png" height="35" alt="Start Button" /></a>
 </div>
+
+</details>
 
 <!--   GitHub stats graph -->
 
@@ -274,11 +296,7 @@ Counting of visitors to this page in this section started from May 1, 2022
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=idimetrix&show_icons=true&theme=radical&include_all_commits=true) | ![idimetrix's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idimetrix&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idimetrix"></img>
-
-<!-- dark snake -->
-
-![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=idimetrix" alt="GitHub Streak Stats for idimetrix" />
 
 <!--   profile-green-animate -->
 
@@ -286,20 +304,18 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <!--   grid-snake ![](https://github.com/idimetrix/idimetrix/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
+<!--  CodersRank TOP widget: Update profile at https://profile.codersrank.io/user/idimetrix to refresh -->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto" alt="CodersRank Summary Widget" />
 
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/idimetrix-->
+<!--  CodersRank 2D skills chart: Update profile at https://profile.codersrank.io/user/idimetrix to refresh -->
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=idimetrix&show-other-skills=true" width="auto" alt="CodersRank Skills Chart" />
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
+<h4 align="center">🏆 Trophy: Github Profile Trophy</h4>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="GitHub Profile Trophy for idimetrix" /></a>
 </p>
 
    <!--machine-learning-->
@@ -314,7 +330,7 @@ graph TD;
     machine-learning-->Deployment;
 ```
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="./github-metrics.svg" alt="GitHub Metrics and Statistics" width="100%">
 
 <!-- New York - My Home-->
 
@@ -350,7 +366,7 @@ graph TD;
 
 ### Profile Views
 
-counting of visitors to this page in this section started from June 12, 2022
+Counting of visitors to this page in this section started from June 12, 2022
 
 ![](https://count.getloli.com/get/@idimetrix.github.readme)
 </br>
@@ -415,36 +431,30 @@ For more details, see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-## _If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use._
+## 💬 Let's Connect
 
-Would you like to meet me?
+If you liked my profile, you can **Star ⭐** the repo and if you want to use this template you can **Fork** it!
 
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
+**Interested in collaboration?** I'm open to:
+
+- Contributing to open source projects
+- Technical discussions and consulting
+- Speaking engagements
+- Mentorship opportunities
+
+Feel free to submit PRs, issues, or email me. For meetings, please describe the agenda in advance.
 
 ---
 
-## _I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed._
+## 🤝 Community
 
 <p align="center">Join our <a href="https://github.com/elevanceit/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Organization">GitHub Organization :octocat:</a> and continue to contribute to our Open Source Software ✨</p>
-<img width="100%" src="./images/line.gif">
-
-<p align="center"><strong>Connect With Us</strong></p>
 
 <p align="center">
-<a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/idimetrix">
-<img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X">
-</a>
-<a href="https://www.linkedin.com/in/dimetrix">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://t.me/idimetrix">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://elevanceit.com/">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Website">
-</a>
+  <strong>I follow back all genuine contributors and collaborators. I value meaningful connections and active engagement in the developer community.</strong>
 </p>
+
+<img width="100%" src="./images/line.gif" alt="Divider Line">
 
 ```TypeScript
 // Check if the code is functioning correctly
@@ -469,6 +479,8 @@ while (alive) {
 
 // - Dmitry Selikhov
 ```
+
+## 🎨 ASCII Art
 
 [//]: # "https://www.asciiart.eu/image-to-ascii"
 
@@ -516,30 +528,14 @@ while (alive) {
 ░░░░░░░░░░░░░░░▒▒▒▒▒▒░░░░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-| Repository Activity Trends                                                                                                        | Collaborative Productivity - Last 28 days                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=851265087&image_size=auto" /> |
+## 📊 Advanced Repository Analytics (OSS Insight)
 
-| Repository Performance Stats - Last 28 days                                                                                          | Active Contributors - Last 28 days                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=851265087&limit=100&image_size=auto"/> |
+| Star Geographic Distribution                                                                                                                                                       | Star History                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" alt="Star Geographic Distribution" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" alt="Star History Chart" /> |
 
-| Star Geographic Distribution                                                                                                                    | Star History                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" /> |
+| Currently Working On - Last 28 days                                                                                                                                                | Top Active Contributors - Last 28 Days                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" alt="Currently Working On" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=851265087&image_size=auto" alt="Top Contributors" /> |
 
-| Company Affiliation                                                                                                                           | Lines of Code Changes                                                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=851265087&image_size=auto" /> |
-
-| Pull Request Size                                                                                                                                   | Pull Request Lifecycle                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=851265087&image_size=auto" /> |
-
-| Currently Working On - Last 28 days                                                                                                                     | Top Active Contributors - Last 28 Days                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=851265087&image_size=auto" /> |
-
-| Repository Annual Ranking                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /> |
+---
