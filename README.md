@@ -58,60 +58,6 @@ Welcome to my page; on my Github, you can find:
 - Projects created by me
 - Projects contributed by me
 
-## 🚀 Quick Setup
-
-This project uses **pnpm** for package management. Make sure you have it installed:
-
-```bash
-# Install pnpm globally
-npm install -g pnpm
-
-# Clone the repository
-git clone https://github.com/idimetrix/idimetrix.git
-cd idimetrix
-
-# Install dependencies
-pnpm install
-
-# Format code
-pnpm run format
-```
-
-### 🔧 Troubleshooting
-
-If you encounter issues:
-
-- **Check Node.js version**: Ensure you have Node.js v22 or higher
-  ```bash
-  node --version
-  ```
-- **Clear pnpm cache**: If dependencies fail to install
-  ```bash
-  pnpm store prune
-  ```
-- **Fresh install**: Remove node_modules and reinstall
-  ```bash
-  rm -rf node_modules pnpm-lock.yaml
-  pnpm install
-  ```
-- **Windows users**: Use Git Bash or WSL for best compatibility
-
-### 📁 Project Structure
-
-```
-.
-├── .github/            # GitHub Actions workflows & configs
-├── .vscode/            # VSCode workspace settings
-├── images/             # Assets, banners, and graphics
-├── profile-3d-contrib/ # 3D contribution visualizations
-├── bash/               # Utility scripts
-├── package.json        # Project metadata & dependencies
-├── pnpm-lock.yaml      # Dependency lock file
-└── README.md           # This file
-```
-
-For more details, see [CONTRIBUTING.md](CONTRIBUTING.md)
-
 ## 📧 You can contact me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
@@ -410,6 +356,62 @@ counting of visitors to this page in this section started from June 12, 2022
 </br>
 
 [MIT](LICENSE)
+
+---
+
+## 🚀 Quick Setup
+
+This project uses **pnpm** for package management. Make sure you have it installed:
+
+```bash
+# Install pnpm globally
+npm install -g pnpm
+
+# Clone the repository
+git clone https://github.com/idimetrix/idimetrix.git
+cd idimetrix
+
+# Install dependencies
+pnpm install
+
+# Format code
+pnpm run format
+```
+
+### 🔧 Troubleshooting
+
+If you encounter issues:
+
+- **Check Node.js version**: Ensure you have Node.js v22 or higher
+  ```bash
+  node --version
+  ```
+- **Clear pnpm cache**: If dependencies fail to install
+  ```bash
+  pnpm store prune
+  ```
+- **Fresh install**: Remove node_modules and reinstall
+  ```bash
+  rm -rf node_modules pnpm-lock.yaml
+  pnpm install
+  ```
+- **Windows users**: Use Git Bash or WSL for best compatibility
+
+### 📁 Project Structure
+
+```
+.
+├── .github/            # GitHub Actions workflows & configs
+├── .vscode/            # VSCode workspace settings
+├── images/             # Assets, banners, and graphics
+├── profile-3d-contrib/ # 3D contribution visualizations
+├── bash/               # Utility scripts
+├── package.json        # Project metadata & dependencies
+├── pnpm-lock.yaml      # Dependency lock file
+└── README.md           # This file
+```
+
+For more details, see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
