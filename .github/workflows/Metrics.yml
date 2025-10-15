@@ -40,7 +40,7 @@ jobs:
           plugin_habits_charts: yes # displays characteristics
 
           plugin_licenses: yes # license information
-          plugin_licenses_setup: npm ci # detailed information about licenses used
+          plugin_licenses_setup: pnpm install # detailed information about licenses used
 
           plugin_skyline: yes # 3D skyline activity plugin
           plugin_skyline_year: 2022 # for which year
