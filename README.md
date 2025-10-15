@@ -44,6 +44,8 @@
     <a href="https://github.com/idimetrix/idimetrix/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
     <a href="https://github.com/idimetrix/idimetrix/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github"></a>
     <a href="https://github.com/idimetrix/idimetrix/network/members"><img src="https://img.shields.io/github/forks/idimetrix/idimetrix.svg?color=blue&logo=github"></a>
+    <img src="https://img.shields.io/github/license/idimetrix/idimetrix" alt="license">
+    <img src="https://img.shields.io/github/last-commit/idimetrix/idimetrix" alt="last commit">
     <img src="https://img.shields.io/badge/pnpm-v10+-yellow.svg?logo=pnpm" alt="pnpm">
     <img src="https://img.shields.io/badge/node-v22+-green.svg?logo=node.js" alt="node">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
@@ -75,6 +77,39 @@ pnpm install
 pnpm run format
 ```
 
+### 🔧 Troubleshooting
+
+If you encounter issues:
+
+- **Check Node.js version**: Ensure you have Node.js v22 or higher
+  ```bash
+  node --version
+  ```
+- **Clear pnpm cache**: If dependencies fail to install
+  ```bash
+  pnpm store prune
+  ```
+- **Fresh install**: Remove node_modules and reinstall
+  ```bash
+  rm -rf node_modules pnpm-lock.yaml
+  pnpm install
+  ```
+- **Windows users**: Use Git Bash or WSL for best compatibility
+
+### 📁 Project Structure
+
+```
+.
+├── .github/            # GitHub Actions workflows & configs
+├── .vscode/            # VSCode workspace settings
+├── images/             # Assets, banners, and graphics
+├── profile-3d-contrib/ # 3D contribution visualizations
+├── bash/               # Utility scripts
+├── package.json        # Project metadata & dependencies
+├── pnpm-lock.yaml      # Dependency lock file
+└── README.md           # This file
+```
+
 For more details, see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📧 You can contact me on:
@@ -86,7 +121,7 @@ _I am open to new opportunities/contributions._
 ## 🔎 You can find me on:
 
 <a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/idimetrix)
+[![X](https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/idimetrix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimetrix/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/idimetrix)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://dmitrii-selikhov.vercel.app/)
@@ -118,7 +153,6 @@ Highlights:
 - ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
 - ⭐ Delivered over 50+ projects
 - ⭐ Worked with over 25+ companies from startup to enterprise level
-- ⭐ Delivered over 50+ projects
 - ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills
 - ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects
 - ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
@@ -290,9 +324,9 @@ Counting of visitors to this page in this section started from May 1, 2022
 
 <!--   stats + languages -->
 
-| .                                                                                                                                                 | .                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=idimetrix&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idimetrix&theme=radical&layout=compact) |
+| .                                                                                                                                                 | .                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=idimetrix&show_icons=true&theme=radical&include_all_commits=true) | ![idimetrix's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idimetrix&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=idimetrix"></img>
 
@@ -381,7 +415,7 @@ counting of visitors to this page in this section started from June 12, 2022
 
 ## _If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use._
 
-Would you ike to meet me?
+Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
@@ -397,12 +431,12 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 <p align="center">
 <a href="mailto:selikhov.dmitrey@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/idimetrix">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
+<img src="https://img.shields.io/badge/X-000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X">
 </a>
 <a href="https://www.linkedin.com/in/dimetrix">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://t.me/dmitrii_selikhov">
+<a href="https://t.me/idimetrix">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 <a href="https://elevanceit.com/">
