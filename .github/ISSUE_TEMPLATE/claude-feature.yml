@@ -1,0 +1,72 @@
+name: "Request a Feature (Claude AI)"
+description: "Describe a new feature — Claude AI will implement it automatically"
+title: "[Feature] "
+labels: ["claude", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## New Feature Request
+        Describe what you want built. Claude AI will analyze this and create a pull request automatically.
+  - type: textarea
+    id: description
+    attributes:
+      label: "What do you want?"
+      description: "Describe the feature in plain language. Be as specific as possible."
+      placeholder: "I want a new option that allows..."
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: "How will we know it's done?"
+      description: "List the requirements that must be met."
+      placeholder: |
+        - The function should handle edge cases
+        - All existing tests still pass
+        - TypeScript types are correct
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      description: "How important is this?"
+      options:
+        - "Low — nice to have"
+        - "Medium — should be done soon"
+        - "High — needed this week"
+        - "Critical — blocking other work"
+      default: 1
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: "What part of the app?"
+      description: "Which area does this affect?"
+      multiple: true
+      options:
+        - "Core / Source Code"
+        - "API / Public Interface"
+        - "Types / TypeScript"
+        - "Build / Configuration"
+        - "Testing / CI"
+        - "Documentation"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional context (optional)"
+      description: "Screenshots, links, design mockups, or any other helpful info."
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Before submitting"
+      options:
+        - label: "I searched existing issues and this hasn't been requested before"
+          required: true

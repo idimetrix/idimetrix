@@ -1,0 +1,73 @@
+name: "Request a Task (Claude AI)"
+description: "Request a refactor, chore, or improvement — Claude AI will handle it"
+title: "[Task] "
+labels: ["claude"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Task Request
+        Describe the task. Claude AI will analyze this and create a pull request automatically.
+  - type: textarea
+    id: description
+    attributes:
+      label: "What needs to be done?"
+      description: "Describe the task in plain language."
+      placeholder: |
+        Examples:
+        - "Clean up the source code — it has unused imports"
+        - "Move the shared helpers into a utils folder"
+        - "Update all the old-style imports to use the new format"
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: "Acceptance criteria"
+      description: "How will we know it's done?"
+      placeholder: |
+        - All tests still pass
+        - No new TypeScript errors
+        - Performance is not degraded
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      description: "How important is this?"
+      options:
+        - "Low — nice to have"
+        - "Medium — should be done soon"
+        - "High — needed this week"
+        - "Critical — blocking other work"
+      default: 1
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: "Type"
+      description: "What kind of task is this?"
+      options:
+        - "Refactor"
+        - "Performance"
+        - "Cleanup"
+        - "Configuration"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: "Additional context (optional)"
+      description: "Any extra information that might help."
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Before submitting"
+      options:
+        - label: "I searched existing issues and this hasn't been requested before"
+          required: true

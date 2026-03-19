@@ -1,0 +1,22 @@
+name: "Quick Request (Claude AI)"
+description: "The fastest way to ask Claude AI to make a change"
+title: "[Request] "
+labels: ["claude"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Just tell Claude what you need — no jargon required! Claude AI will read your request and create the changes automatically.
+  - type: textarea
+    id: request
+    attributes:
+      label: "What do you need?"
+      description: "Describe what you want in your own words. Be as specific as you can."
+      placeholder: |
+        Examples:
+        - "Fix the TypeScript error in index.ts"
+        - "Add a missing export to the public API"
+        - "Update the README with usage examples"
+        - "Rename the config option from X to Y"
+    validations:
+      required: true

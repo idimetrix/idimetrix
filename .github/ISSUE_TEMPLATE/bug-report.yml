@@ -1,0 +1,89 @@
+name: "Report a Bug"
+description: "Report a bug for the team to review"
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Bug Report
+        This bug report will be reviewed by the team. To have Claude AI fix it automatically,
+        use the **"Report a Bug (Claude AI)"** template instead, or add the `claude` label
+        after creating this issue.
+  - type: textarea
+    id: description
+    attributes:
+      label: "What's broken?"
+      description: "Describe the bug in plain language."
+      placeholder: "When I use the library, it throws an error..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to reproduce"
+      description: "How can we reproduce this bug?"
+      placeholder: |
+        1. Install the package
+        2. Call the function with these arguments
+        3. See the error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "What should happen vs what actually happens"
+      description: "Describe the expected behavior and the actual behavior."
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      description: "How important is this?"
+      options:
+        - "Low — cosmetic issue"
+        - "Medium — broken but has workaround"
+        - "High — broken, no workaround"
+        - "Critical — site is down or data loss"
+      default: 1
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: "What part of the app?"
+      description: "Which area does this affect?"
+      multiple: true
+      options:
+        - "Core / Source Code"
+        - "API / Public Interface"
+        - "Types / TypeScript"
+        - "Build / Configuration"
+        - "Testing / CI"
+        - "Documentation"
+        - "Other"
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: "Browser / Device (optional)"
+      description: "What browser and device are you using?"
+      placeholder: "e.g., Chrome on Windows, Safari on iPhone"
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "Screenshots (optional)"
+      description: "Paste screenshots or drag files here."
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Before submitting"
+      options:
+        - label: "I searched existing issues and this hasn't been reported before"
+          required: true
