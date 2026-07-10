@@ -1,6 +1,45 @@
 📢 Nominate ([@idimetrix](https://github.com/idimetrix/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
 
 <a href="https://www.linkedin.com/in/dimetrix" target="_blank"><img width="100%" src="./images/hero_0.5.png" alt="Dmitry Selikhov - CTO, Software Architect, Technical Lead - Professional Profile Banner"></a>
+
+<!-- ─────────────────────────────── PLANODA ─────────────────────────────── -->
+
+## 🪐 I'm building [Planoda](https://planoda.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=heading) — the AI-native work platform
+
+<a href="https://planoda.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=hero_banner" target="_blank"><img width="100%" src="./images/planoda/hero.png" alt="Planoda - the AI-native work platform. Agents propose, humans approve. Every action audited and costed."></a>
+
+**Issues, boards, roadmaps and automations on one schema** — replacing Linear, ClickUp, Monday and Trello. AI agents _propose_ the work; a human approves before anything lands. Every action hits an immutable, hash-chained audit log and a per-workspace AI cost ledger.
+
+<p align="center">
+<a href="https://planoda.com/sign-up?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=cta_getstarted" target="_blank"><img src="https://img.shields.io/badge/Get%20started%20—%20free-8B5CF6?style=for-the-badge&logoColor=white" alt="Get started free"></a>
+<a href="https://planoda.com/demo?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=cta_demo" target="_blank"><img src="https://img.shields.io/badge/Try%20it%20live%20—%20no%20sign--up-0EA5E9?style=for-the-badge&logoColor=white" alt="Try the live demo, no sign-up"></a>
+<a href="https://planoda.com/pricing?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=cta_compare" target="_blank"><img src="https://img.shields.io/badge/Compare%20plans-1F2937?style=for-the-badge&logoColor=white" alt="Compare plans"></a>
+</p>
+
+<p align="center">
+<a href="https://planoda.com/build?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=grid_board" target="_blank"><img width="49%" src="./images/planoda/board.png" alt="Planoda board - kanban and issue tracker on one shared schema"></a>
+<a href="https://planoda.com/agents?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=grid_agents" target="_blank"><img width="49%" src="./images/planoda/inbox.png" alt="Planoda inbox - AI triages requests and proposes routing for a human to accept"></a>
+</p>
+<p align="center">
+<a href="https://planoda.com/plan?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=grid_roadmap" target="_blank"><img width="49%" src="./images/planoda/roadmap.png" alt="Planoda roadmap - drag an initiative and it snaps to the quarter"></a>
+<a href="https://planoda.com/monitor?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=grid_insights" target="_blank"><img width="49%" src="./images/planoda/insights.png" alt="Planoda insights - velocity, throughput and work-in-progress recomputed live"></a>
+</p>
+
+|                                    |                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧩 **One schema**                  | Board, issue tracker, roadmap and automations read the exact same data — no exporting, no syncing.                                                                                                                                                                                                                                                         |
+| 🤖 **Agents propose, you approve** | AI triages from Slack, email and forms, then waits. A propose/approve broker guards every destructive action.                                                                                                                                                                                                                                              |
+| 🛡️ **Governance built in**         | Immutable hash-chained audit log, per-workspace AI cost ledger, HMAC-signed webhooks, Postgres row-level security.                                                                                                                                                                                                                                         |
+| ⚡ **Fast and realtime**           | Sub-100 ms p95 interactions, realtime co-editing, keyboard-first navigation.                                                                                                                                                                                                                                                                               |
+| 🔌 **Built for developers**        | REST [API](https://planoda.com/developers/api?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=feature_api), an [MCP server](https://planoda.com/developers/mcp?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=feature_mcp) any agent can drive, semantic search, CI/PR integration. |
+| 💳 **Priced without surprises**    | Free for up to 10 members, no credit card. Pro $10/user/mo, Business $20. AI metered on credits you control.                                                                                                                                                                                                                                               |
+
+<sub>🟢 v0.12 · pre-launch and shipping · GDPR with EU residency · SOC 2 Type II in progress · <a href="https://github.com/idimetrix/planoda">planoda on GitHub</a></sub>
+
+<!-- ───────────────────────────── /PLANODA ──────────────────────────────── -->
+
+---
+
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
 [**[Request A Quote](https://tally.so/r/3lldZB)**]
 [**[Find Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
@@ -63,6 +102,7 @@ Welcome to my page; on my Github, you can find:
 
 ## 📑 Table of Contents
 
+- [🪐 Planoda — the AI-native work platform](#-im-building-planoda--the-ai-native-work-platform)
 - [📬 Contact & Social](#-contact--social)
 - [📊 Github Stats](#github-stats)
 - [🔖 Featured Repositories](#-featured-repositories)

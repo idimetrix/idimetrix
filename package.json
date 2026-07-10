@@ -67,6 +67,10 @@
     {
       "type": "website",
       "url": "https://dmitrii-selikhov.vercel.app"
+    },
+    {
+      "type": "website",
+      "url": "https://planoda.com/?utm_source=github&utm_medium=funding&utm_campaign=founder_promo&utm_content=funding_pkgjson"
     }
   ],
   "scripts": {
