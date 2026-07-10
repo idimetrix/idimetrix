@@ -1,0 +1,6 @@
+# Default funding config for all @idimetrix repositories.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+github: idimetrix
+custom:
+  - "https://planoda.com/?utm_source=github&utm_medium=funding&utm_campaign=founder_promo&utm_content=funding_home"
+  - "https://planoda.com/pricing?utm_source=github&utm_medium=funding&utm_campaign=founder_promo&utm_content=funding_pricing"

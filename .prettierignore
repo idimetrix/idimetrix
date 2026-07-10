@@ -23,8 +23,3 @@ Thumbs.db
 # IDE
 .idea/
 .vscode/
-
-# Generated files
-profile-3d-contrib/
-github-metrics.svg
-
