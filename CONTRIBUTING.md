@@ -45,5 +45,5 @@ By participating you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Contact
 
-- **Planoda**: [planoda.com/contact](https://planoda.com/contact?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=contact)
-- **Maintainer**: [Dmitry Selikhov](https://www.linkedin.com/in/dimetrix)
+- **Planoda support**: [planoda.com/contact](https://planoda.com/contact?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=contact)
+- **Docs**: [planoda.com/docs](https://planoda.com/docs?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=contact_docs)

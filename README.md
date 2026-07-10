@@ -123,9 +123,10 @@ The demo runs entirely in your browser on realistic sample data.
 
 <br><br>
 
-Built by **[Dmitry Selikhov](https://www.linkedin.com/in/dimetrix)** ·
-[planoda.com](https://planoda.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=footer_home) ·
-[Contact](mailto:selikhov.dmitrey@gmail.com)
+**[planoda.com](https://planoda.com/?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=footer_home)** ·
+[Docs](https://planoda.com/docs?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=footer_docs) ·
+[Pricing](https://planoda.com/pricing?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=footer_pricing) ·
+[Contact](https://planoda.com/contact?utm_source=github&utm_medium=profile_readme&utm_campaign=founder_promo&utm_content=footer_contact)
 
 <sub>This repository is the public showcase for Planoda. The product is hosted; its source is not open. Content here is <a href="LICENSE">MIT</a>-licensed — the Planoda product and brand are not.</sub>
 
