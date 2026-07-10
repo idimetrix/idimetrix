@@ -1,85 +1,49 @@
-## Contributing to idimetrix
+# Contributing
 
-Thank you for your interest in contributing! This guide will help you get started.
+This repository is the **public showcase page for [Planoda](https://planoda.com/?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=intro)** — the AI-native work platform. It holds the landing page and its screenshots. **It is not the Planoda source code**, which is closed and hosted.
 
-## Development Setup
+There is no application to build here, so pull requests adding features to Planoda cannot be accepted through this repo.
+
+## Where to take things
+
+| I want to…                           | Go here                                                                                                                                                                                                                                                             |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Report a bug **in Planoda**          | [planoda.com/contact](https://planoda.com/contact?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=bug)                                                                                                                             |
+| Request a **feature** in Planoda     | [planoda.com/roadmap](https://planoda.com/roadmap?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=roadmap)                                                                                                                         |
+| Report a **security issue**          | [planoda.com/security](https://planoda.com/security?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=security) — please do **not** open a public issue                                                                              |
+| Read the **docs** or use the **API** | [planoda.com/docs](https://planoda.com/docs?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=docs) · [API](https://planoda.com/developers/api?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=api) |
+| Fix a **typo or broken link here**   | Open a pull request against this repository — those are very welcome.                                                                                                                                                                                               |
+
+## Working on this repository
+
+The only tooling here is Prettier, which keeps the Markdown and JSON formatted.
 
 ### Prerequisites
 
-- **Node.js**: v22 or higher (check with `node --version`)
-- **pnpm**: v10 or higher (check with `pnpm --version`)
+- **Node.js** v24 or higher (`node --version`) — the pinned version lives in `.nvmrc`
+- **pnpm** v10 or higher (`pnpm --version`)
 
-If you don't have pnpm installed:
-
-```bash
-npm install -g pnpm
-```
-
-### Getting Started
-
-1. **Fork and clone the repository**
+### Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/idimetrix.git
+git clone https://github.com/idimetrix/idimetrix.git
 cd idimetrix
-```
-
-2. **Install dependencies**
-
-```bash
 pnpm install
 ```
 
-3. **Format your code**
+### Before opening a pull request
 
 ```bash
-pnpm run format
+pnpm run format   # prettier --write .
 ```
 
-### Development Workflow
+Keep the README's factual claims aligned with what [planoda.com](https://planoda.com/?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=claims) actually states — no invented metrics, customer counts, testimonials, or competitor feature comparisons.
 
-- **Install dependencies**: `pnpm install` or `pnpm i`
-- **Format code**: `pnpm run format`
-- **Bootstrap project**: `pnpm run bootstrap` (install + format)
+## Code of conduct
 
-### Code Quality
+By participating you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-This project uses:
+## Contact
 
-- **Prettier** for code formatting
-- **EditorConfig** for consistent editor settings
-- **pnpm** for fast, disk-efficient package management
-
-Please ensure your code is formatted before submitting a pull request:
-
-```bash
-pnpm run format
-```
-
-## How to Contribute
-
-### Adding a language
-
-I invite you to contribute by translating this page into your native language.
-
-### Adding content
-
-Offer materials to saturate the page. In my humble opinion, I have collected the best and brightest elements of a
-programmer's business card, but perhaps you know more about what I don't know. I'm open for dialogue.
-
-### Submitting Changes
-
-1. Create a new branch for your feature/fix
-2. Make your changes
-3. Run `pnpm run format` to format your code
-4. Commit your changes with a clear message
-5. Push to your fork
-6. Open a Pull Request
-
-## Questions?
-
-Feel free to reach out:
-
-- **Email**: selikhov.dmitrey@gmail.com
-- **LinkedIn**: [linkedin.com/in/dimetrix](https://www.linkedin.com/in/dimetrix)
-- **Twitter**: [@idimetrix](https://twitter.com/idimetrix)
+- **Planoda**: [planoda.com/contact](https://planoda.com/contact?utm_source=github&utm_medium=contributing&utm_campaign=founder_promo&utm_content=contact)
+- **Maintainer**: [Dmitry Selikhov](https://www.linkedin.com/in/dimetrix)

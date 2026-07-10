@@ -1,5 +1,17 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "Not sure which template to use?"
+  - name: "🪐 Try Planoda live — no sign-up"
+    url: https://planoda.com/demo?utm_source=github&utm_medium=issue_template&utm_campaign=founder_promo&utm_content=demo
+    about: "The full product runs in your browser on realistic sample data."
+  - name: "🐛 Report a bug in Planoda (the product)"
+    url: https://planoda.com/contact?utm_source=github&utm_medium=issue_template&utm_campaign=founder_promo&utm_content=bug
+    about: "This repo is only the showcase page — product bugs go to Planoda support."
+  - name: "🛡️ Report a security issue"
+    url: https://planoda.com/security?utm_source=github&utm_medium=issue_template&utm_campaign=founder_promo&utm_content=security
+    about: "Please do not open a public issue for security reports."
+  - name: "📘 Documentation, API and MCP"
+    url: https://planoda.com/docs?utm_source=github&utm_medium=issue_template&utm_campaign=founder_promo&utm_content=docs
+    about: "Guides, REST API reference, SDK and the MCP server."
+  - name: "❓ Not sure which template to use?"
     url: https://github.com/idimetrix/idimetrix/issues/new?template=claude-quick.yml
     about: "Use the Quick Request template — just describe what you need in plain English."
