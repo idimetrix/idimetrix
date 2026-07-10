@@ -12,6 +12,3 @@ contact_links:
   - name: "📘 Documentation, API and MCP"
     url: https://planoda.com/docs?utm_source=github&utm_medium=issue_template&utm_campaign=founder_promo&utm_content=docs
     about: "Guides, REST API reference, SDK and the MCP server."
-  - name: "❓ Not sure which template to use?"
-    url: https://github.com/idimetrix/idimetrix/issues/new?template=claude-quick.yml
-    about: "Use the Quick Request template — just describe what you need in plain English."

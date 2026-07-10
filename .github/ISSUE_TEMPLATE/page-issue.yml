@@ -1,0 +1,46 @@
+name: "Issue with this page"
+description: "A typo, broken link, wrong screenshot or inaccurate claim on the Planoda showcase page"
+title: "[Page] "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This repository is only the **public showcase page** for [Planoda](https://planoda.com/?utm_source=github&utm_medium=issue_form&utm_campaign=founder_promo&utm_content=intro). It is not the Planoda source code.
+
+        **Bugs in the Planoda product** → [planoda.com/contact](https://planoda.com/contact?utm_source=github&utm_medium=issue_form&utm_campaign=founder_promo&utm_content=product_bug)
+        **Security issues** → [planoda.com/security](https://planoda.com/security?utm_source=github&utm_medium=issue_form&utm_campaign=founder_promo&utm_content=security) — please do not open a public issue.
+
+        Use this form only for problems with the page itself.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem?
+      options:
+        - Typo or wording
+        - Broken or wrong link
+        - Screenshot is outdated or wrong
+        - A claim here is inaccurate or unsupported
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong?
+      description: "Quote the text or name the section, and say what it should be instead."
+      placeholder: |
+        The pricing table says Pro is $12/user/mo, but planoda.com/pricing says $10.
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: Where?
+      description: "Section heading, or a link to the line in README.md."
+      placeholder: "## Pricing"
+    validations:
+      required: false
