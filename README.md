@@ -47,7 +47,7 @@
 
 **Technology:**  
 <img src="https://img.shields.io/badge/pnpm-v10+-yellow.svg?logo=pnpm" alt="Package Manager: pnpm v10+">
-<img src="https://img.shields.io/badge/node-v22+-green.svg?logo=node.js" alt="Node.js: v22+">
+<img src="https://img.shields.io/badge/node-v24+-green.svg?logo=node.js" alt="Node.js: v24+">
 
 **Metrics:**  
 <img src="https://img.shields.io/github/license/idimetrix/idimetrix" alt="License: MIT">
@@ -582,7 +582,7 @@ pnpm run format
 
 If you encounter issues:
 
-- **Check Node.js version**: Ensure you have Node.js v22 or higher
+- **Check Node.js version**: Ensure you have Node.js v24 or higher
   ```bash
   node --version
   ```
