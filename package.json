@@ -59,10 +59,6 @@
   },
   "funding": [
     {
-      "type": "github",
-      "url": "https://github.com/sponsors/idimetrix"
-    },
-    {
       "type": "website",
       "url": "https://dmitrii-selikhov.vercel.app"
     },
