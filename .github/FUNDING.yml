@@ -1,6 +1,9 @@
-# Default funding config for all @idimetrix repositories.
-# Only `custom` is used: @idimetrix has no GitHub Sponsors listing, and an
-# unresolvable `github:` key invalidates the whole file (no button renders).
+# Sponsor button -> Planoda.
+# Only `custom` is used. Do not add a `github:` key unless the account has an
+# active GitHub Sponsors listing: an unresolvable `github:` key invalidates the
+# whole file and no sponsor button renders at all.
+# Note: each repository must also enable Settings -> Features -> Sponsorships,
+# which has no API and must be ticked by hand.
 custom:
   - "https://planoda.com/?utm_source=github&utm_medium=funding&utm_campaign=founder_promo&utm_content=funding_home"
   - "https://planoda.com/pricing?utm_source=github&utm_medium=funding&utm_campaign=founder_promo&utm_content=funding_pricing"
